@@ -1,0 +1,12 @@
+{
+  "parent": "block/cube",
+  "textures": {
+    "down": "fran:blocks/gd",
+    "up": "fran:blocks/gd",
+    "north": "fran:blocks/gd",
+    "east": "fran:blocks/gd",
+    "south": "fran:blocks/gd",
+    "west": "fran:blocks/gd",
+    "particle": "fran:blocks/gd"
+  }
+}
